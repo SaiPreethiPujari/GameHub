@@ -1,13 +1,13 @@
 # GameHub – Python Mini Games Collection
 
 ## Overview
-GameHub is a collection of interactive command-line games developed using Python. The project demonstrates fundamental programming concepts such as control flow, functions, loops, and modular programming. Each game provides a simple and engaging way to practice problem-solving and logic building.
+GameHub is a collection of interactive games developed using Python. The project demonstrates fundamental programming concepts such as control flow, functions, loops, and modular programming. Each game provides a simple and engaging way to practice problem-solving and logic building.
 
 ## Games Included
-- **Rock Paper Scissors** – Play against the computer using random choice logic. :contentReference[oaicite:0]{index=0}
-- **Guess the Number** – Guess a randomly generated number with limited attempts and difficulty levels. :contentReference[oaicite:1]{index=1}
-- **Caesar Cipher Tool** – Encrypt and decrypt messages using a shift-based cipher algorithm. :contentReference[oaicite:2]{index=2}
-- **Silent Auction System** – Simulates a bidding system to determine the highest bidder. :contentReference[oaicite:3]{index=3}
+- **Rock Paper Scissors** – Play against the computer using random choice logic. 
+- **Guess the Number** – Guess a randomly generated number with limited attempts and difficulty levels. 
+- **Caesar Cipher Tool** – Encrypt and decrypt messages using a shift-based cipher algorithm. 
+- **Silent Auction System** – Simulates a bidding system to determine the highest bidder. 
 
 ## Features
 - Multiple interactive console games
